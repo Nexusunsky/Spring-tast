@@ -1,6 +1,6 @@
-package com.nexusunsky.di.origin;
+package com.nexusunsky.ioc.oldstyle;
 
-public class Seller {
+public class Yeye {
     public String sell(int money) {
         if (money == 10) {
             return "赵云的皮肤";
